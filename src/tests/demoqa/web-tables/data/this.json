@@ -1,0 +1,26 @@
+{
+    "newRecord": {
+        "firstName": "Tom",
+        "lastName": "Smith",
+        "age": "28",
+        "email": "tom.smith@test.com",
+        "salary": "5000",
+        "department": "QA"
+    },
+    "searchRecord": {
+        "firstName": "SearchTest",
+        "lastName": "User",
+        "age": "35",
+        "email": "searchtest@test.com",
+        "salary": "7000",
+        "department": "Testing"
+    },
+    "deleteRecord": {
+        "firstName": "DeleteMe",
+        "lastName": "User",
+        "age": "30",
+        "email": "deleteme@test.com",
+        "salary": "1000",
+        "department": "Temp"
+    }
+}

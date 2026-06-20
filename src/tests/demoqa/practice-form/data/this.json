@@ -1,0 +1,14 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "mobile": "1234567890",
+    "subject": "Maths",
+    "address": "123 Main Street, Bangkok 10100",
+    "expectedModal": {
+        "title": "Thanks for submitting the form",
+        "studentName": "John Doe",
+        "gender": "Male",
+        "hobby": "Sports"
+    }
+}
