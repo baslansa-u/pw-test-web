@@ -1,7 +1,5 @@
 # Playwright Automation Tests — POM with TypeScript
 
-![CI](https://github.com/wkbaslan/pw-test-web/actions/workflows/playwright.yml/badge.svg)
-
 Automated end-to-end test framework built with **Playwright** and **TypeScript**, using the **Page Object Model (POM)** design pattern. Covers two demo applications across multiple feature areas.
 
 ---
